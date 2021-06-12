@@ -2,7 +2,7 @@
 -------------------------
 **This is a basic pizza order system**
  
-![Tkinter_Gui_Exercise.py](./pictures/Tkinter_Gui_Exercise.py.png?raw=true)
+![Tkinter_Gui_Exercise.py](./app/src/main/res/drawable/order_pizza.gif?raw=true)
 * Radio,Checkbox,Combobox,Textbox,NotificationBox
 * Responsive frame
 * Onclick event
