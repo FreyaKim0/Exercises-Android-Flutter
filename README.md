@@ -1,13 +1,11 @@
 # Exercise-Android-Studio
 -------------------------
-**This is a basic pizza order system**
+**This is a pracitce of android mobile ordering system. In this 6 activities program, 
+customers choose various types of pizzas , toppings , payment method and contact information as they wish.**
  
-![Tkinter_Gui_Exercise.py](./app/src/main/res/drawable/order_pizza.gif?raw=true)
-* Radio,Checkbox,Combobox,Textbox,NotificationBox
-* Responsive frame
-* Onclick event
+![Basic Pizza Order System](./app/src/main/res/drawable/order_pizza.gif?raw=true)
 
-**Library_Class_Exerise :**
-* Class,Constructor,Attributes,Properties,Instances,Getter and Setter
-* Try Catch,Exception
-* Tuple,List and Dictionary
+* Menu control
+* Checkbox, spinner, radio buttons, number picker
+* Passing value through intent
+* Desrialize and serialize class instance
