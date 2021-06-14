@@ -5,6 +5,7 @@ customers choose various types of pizzas , toppings , payment method and contact
  
 ![Basic Pizza Order System](./app/src/main/res/drawable/order_pizza.gif?raw=true)
 
+Practice scope:
 * Menu control
 * Checkbox, spinner, radio buttons, number picker
 * Passing value through intent
