@@ -1,5 +1,5 @@
 # Exercise-Android-Studio
--------------------------
+
 **This is an android mobile app of pizza ordering program. In this program:**
 * End user may view photos, ingredients of 5 different type of pizzas.
 * End user may choose various types of pizzas , toppings , payment method and contact information as they wish.
@@ -11,5 +11,6 @@
 Practice scope:
 * Menu control
 * Checkbox, spinner, radio buttons, number picker
+* JAVA form controls
 * Passing value through intent
 * Desrialize and serialize class instance
