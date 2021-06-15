@@ -13,4 +13,4 @@ Practice scope:
 * Checkbox, spinner, radio buttons, number picker
 * JAVA form controls
 * Passing value through intent
-* Desrialize and serialize class instance
+* Serialize and deserialize class instance
