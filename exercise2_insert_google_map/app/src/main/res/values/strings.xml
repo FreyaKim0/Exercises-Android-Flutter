@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Restaurant Locations</string>
+    <string-array name="array_italian">
+        <item>Mezza Notte Trattoria</item>
+        <item>Napoli Vince Pizza</item>
+        <item>Pizza Hut Toronto</item>
+    </string-array>
+    <string-array name="array_korean">
+        <item>KoSam Korean Restaurant and Bar</item>
+        <item>The Famous Owl of Minerva</item>
+        <item>Kayagum Restaurant</item>
+    </string-array>
+    <string name="title_activity_shop_map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
