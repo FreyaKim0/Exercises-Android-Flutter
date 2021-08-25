@@ -1,7 +1,6 @@
 # Exercise-Android-Studio
 
 **[Exercise 1] send/recieve SMS**
-In this program:
 * End users can download sotcks info (from hardcode) and send it to theirselves through SMS by clicking button.
 
 ![send_recieve_SMS](./app/src/main/res/drawable/order_pizza.gif?raw=true)
