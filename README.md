@@ -3,7 +3,7 @@
 **[Exercise 1] send/recieve SMS**
 * End users can download sotcks info (from hardcode) and send it to theirselves through SMS by clicking button.
 
-![send_recieve_SMS](./app/src/main/res/drawable/order_pizza.gif?raw=true)
+![send_recieve_SMS](./screenShots/exercise1_SMS.gif?raw=true)
 
 Practice scope:
 * Room Database 
@@ -15,12 +15,12 @@ Practice scope:
 **[Exercise 2] insert google map**
 * The application displays the map and satellite map of the restaurant whenever end user selects the name in the list. 
 
-![google_map](./app/src/main/res/drawable/order_pizza.gif?raw=true)
+![google_map](./screenShots/exercise2_google_map.gif?raw=true)
 
 Practice scope:
 * Inserting google map
 * Assign location to google map
-* Google map zoom and type settings
+* Fragments
 
 -----------------------------------------------------------------------------
 **[Exercise 3] pizza ordering program**
@@ -30,7 +30,7 @@ In this program:
 * Order variables will be stored and passed through 6 different activities and will be presented at the last activity.
 * Form Controls will be performed on customer information page. 
  
-![Basic Pizza Order System](./app/src/main/res/drawable/order_pizza.gif?raw=true)
+![Basic Pizza Order System](./screenShots/exercise3_order_pizza.gif?)
 
 Practice scope:
 * Menu control
