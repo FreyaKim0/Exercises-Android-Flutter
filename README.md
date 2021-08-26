@@ -1,6 +1,6 @@
 # Exercise-Android-Studio
 
-**[Exercise 3] pizza ordering program**
+**[Exercise 3] pizza ordering program** 
 In this program:
 * End user may view photos, ingredients of 5 different type of pizzas.
 * End user may choose various types of pizzas , toppings , payment method and contact information as they wish.
