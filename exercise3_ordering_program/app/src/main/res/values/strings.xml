@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PIZZA SHOP</string>
+    <string-array name="city">
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Montreal</item>
+        <item>Yellow Knife</item>
+    </string-array>
+    <string-array name="size">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+    </string-array>
+</resources>
