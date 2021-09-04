@@ -1,5 +1,19 @@
 # Exercise-Android-Studio
 
+**[Exercise 4] flutter layouts** 
+
+![flutter_layouts](./screen_shots/exercise4_flutter_layouts.gif?)
+
+Practice scope:
+* Splash screen
+* appbar
+* bottom bar
+* listview
+* gridview
+* hero
+* navigator
+-----------------------------------------------------------------------------
+
 **[Exercise 3] pizza ordering program** 
 In this program:
 * End user may view photos, ingredients of 5 different type of pizzas.
