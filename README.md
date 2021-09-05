@@ -1,6 +1,6 @@
 # Exercise-Android-Studio
 
-**[Exercise 4] flutter layouts** 
+**[Exercise 4] Flutter - layouts** 
 
 ![flutter_layouts](./screen_shots/exercise4_flutter_layouts.gif?)
 
@@ -14,7 +14,7 @@ Practice scope:
 * navigator
 -----------------------------------------------------------------------------
 
-**[Exercise 3] pizza ordering program** 
+**[Exercise 3] Android - pizza ordering program** 
 In this program:
 * End user may view photos, ingredients of 5 different type of pizzas.
 * End user may choose various types of pizzas , toppings , payment method and contact information as they wish.
@@ -30,7 +30,7 @@ Practice scope:
 * Passing value through intent
 * Serialize and deserialize class instance
 -----------------------------------------------------------------------------
-**[Exercise 2] insert google map**
+**[Exercise 2] Android - insert google map**
 * The application displays the map and satellite map of the restaurant whenever end user selects the name in the list. 
 
 ![google_map](./screen_shots/exercise2_google_map.gif?raw=true)
@@ -40,7 +40,7 @@ Practice scope:
 * Assign location to google map
 * Fragments
 -----------------------------------------------------------------------------
-**[Exercise 1] send/recieve SMS**
+**[Exercise 1] Android - send/recieve SMS**
 * End users can download sotcks info (from hardcode) and send it to theirselves through SMS by clicking button.
 
 ![send_recieve_SMS](./screen_shots/exercise1_SMS.gif?raw=true)
